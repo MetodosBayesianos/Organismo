@@ -1,0 +1,111 @@
+[submodule "Administrar"]
+	path = Administrar
+	url = git@github.com:MetodosBayesianos/Administrar.git
+[submodule "Aliar/Laboratorios"]
+	path = Aliar/Laboratorios
+	url = git@github.com:MetodosBayesianos/Laboratorios.git
+[submodule "Aliar/Fundaciones"]
+	path = Aliar/Fundaciones
+	url = git@github.com:MetodosBayesianos/Fundaciones.git
+[submodule "Aliar/Empresas"]
+	path = Aliar/Empresas
+	url = git@github.com:MetodosBayesianos/Empresas.git
+[submodule "Aliar/Asociaciones"]
+	path = Aliar/Asociaciones
+	url = git@github.com:MetodosBayesianos/Asociaciones.git
+[submodule "Comunicar/Charlas"]
+	path = Comunicar/Charlas
+	url = git@github.com:MetodosBayesianos/Charlas.git
+[submodule "Comunicar/Notas"]
+	path = Comunicar/Notas
+	url = git@github.com:MetodosBayesianos/Notas.git
+[submodule "Comunicar/Web"]
+	path = Comunicar/Web
+	url = git@github.com:MetodosBayesianos/Web.git
+[submodule "Comunicar/Redes"]
+	path = Comunicar/Redes
+	url = git@github.com:MetodosBayesianos/Redes.git
+[submodule "Explorar/Forks"]
+	path = Explorar/Forks
+	url = git@github.com:MetodosBayesianos/Forks.git
+[submodule "Explorar/Cursos"]
+	path = Explorar/Cursos
+	url = git@github.com:MetodosBayesianos/Cursos.git
+[submodule "Explorar/Temas"]
+	path = Explorar/Temas
+	url = git@github.com:MetodosBayesianos/Temas.git
+[submodule "Investigar/Tesis"]
+	path = Investigar/Tesis
+	url = git@github.com:MetodosBayesianos/Tesis.git
+[submodule "Investigar/Articulos"]
+	path = Investigar/Articulos
+	url = git@github.com:MetodosBayesianos/Articulos.git
+[submodule "Administrar/Comercial"]
+	path = Administrar/Comercial
+	url = git@github.com:MetodosBayesianos/Comercial.git
+[submodule "Administrar/Legal"]
+	path = Administrar/Legal
+	url = git@github.com:MetodosBayesianos/Legal.git
+[submodule "Administrar/Humana"]
+	path = Administrar/Humana
+	url = git@github.com:MetodosBayesianos/Humana.git
+[submodule "Administrar/Estrategica"]
+	path = Administrar/Estrategica
+	url = git@github.com:MetodosBayesianos/Estrategica.git
+[submodule "Auxiliar/Biblio"]
+	path = Auxiliar/Biblio
+	url = git@github.com:MetodosBayesianos/Biblio.git
+[submodule "Auxiliar/Imagen"]
+	path = Auxiliar/Imagen
+	url = git@github.com:MetodosBayesianos/Imagen.git
+[submodule "Auxiliar/Video"]
+	path = Auxiliar/Video
+	url = git@github.com:MetodosBayesianos/Video.git
+[submodule "Auxiliar/Tex"]
+	path = Auxiliar/Tex
+	url = git@github.com:MetodosBayesianos/Tex.git
+[submodule "Datar/Chagas"]
+	path = Datar/Chagas
+	url = git@github.com:MetodosBayesianos/Chagas.git
+[submodule "Datar/Salud"]
+	path = Datar/Salud
+	url = git@github.com:MetodosBayesianos/Salud.git
+[submodule "Datar/Deporte"]
+	path = Datar/Deporte
+	url = git@github.com:MetodosBayesianos/Deporte.git
+[submodule "Datar/Educacion"]
+	path = Datar/Educacion
+	url = git@github.com:MetodosBayesianos/Educacion.git
+[submodule "Datar/Ecologia"]
+	path = Datar/Ecologia
+	url = git@github.com:MetodosBayesianos/Ecologia.git
+[submodule "Datar/Financiero"]
+	path = Datar/Financiero
+	url = git@github.com:MetodosBayesianos/Financiero.git
+[submodule "Datar/Social"]
+	path = Datar/Social
+	url = git@github.com:MetodosBayesianos/Social.git
+[submodule "Producir/Software"]
+	path = Producir/Software
+	url = git@github.com:MetodosBayesianos/Software.git
+[submodule "Formar/Materia"]
+	path = Formar/Materia
+	url = git@github.com:MetodosBayesianos/Materia.git
+[submodule "Formar/Taller"]
+	path = Formar/Taller
+	url = git@github.com:MetodosBayesianos/Taller.git
+[submodule "Formar/Seminario"]
+	path = Formar/Seminario
+	url = git@github.com:MetodosBayesianos/Seminario.git
+[submodule "Formar/Tutor"]
+	path = Formar/Tutor
+	url = git@github.com:MetodosBayesianos/Tutor.git
+[submodule "Publicar/Articulo"]
+	path = Publicar/Articulo
+	url = git@github.com:MetodosBayesianos/Articulo.git
+[submodule "Publicar/Libro"]
+	path = Publicar/Libro
+	url = git@github.com:MetodosBayesianos/Libro.git
+[submodule "Publicar/Reporte"]
+	path = Publicar/Reporte
+	url = git@github.com:MetodosBayesianos/Reporte.git
