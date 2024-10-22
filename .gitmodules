@@ -41,16 +41,16 @@
 	path = Investigar/Articulos
 	url = git@github.com:MetodosBayesianos/Articulos.git
 [submodule "Administrar/Comercial"]
-	path = Administrar/Comercial
+	path = Burocracia/Comercial
 	url = git@github.com:MetodosBayesianos/Comercial.git
 [submodule "Administrar/Legal"]
-	path = Administrar/Legal
+	path = Burocracia/Legal
 	url = git@github.com:MetodosBayesianos/Legal.git
 [submodule "Administrar/Humana"]
-	path = Administrar/Humana
+	path = Burocracia/Humana
 	url = git@github.com:MetodosBayesianos/Humana.git
 [submodule "Administrar/Estrategica"]
-	path = Administrar/Estrategica
+	path = Burocracia/Estrategica
 	url = git@github.com:MetodosBayesianos/Estrategica.git
 [submodule "Auxiliar/Biblio"]
 	path = Auxiliar/Biblio
