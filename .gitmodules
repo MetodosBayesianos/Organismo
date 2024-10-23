@@ -25,15 +25,6 @@
 [submodule "Comunicar/Redes"]
 	path = Comunicar/Redes
 	url = git@github.com:MetodosBayesianos/Redes.git
-[submodule "Explorar/Forks"]
-	path = Explorar/Forks
-	url = git@github.com:MetodosBayesianos/Forks.git
-[submodule "Explorar/Cursos"]
-	path = Explorar/Cursos
-	url = git@github.com:MetodosBayesianos/Cursos.git
-[submodule "Explorar/Temas"]
-	path = Explorar/Temas
-	url = git@github.com:MetodosBayesianos/Temas.git
 [submodule "Investigar/Tesis"]
 	path = Investigar/Tesis
 	url = git@github.com:MetodosBayesianos/Tesis.git
@@ -109,3 +100,6 @@
 [submodule "Publicar/Reporte"]
 	path = Publicar/Reporte
 	url = git@github.com:MetodosBayesianos/Reporte.git
+[submodule "Explorar/Pacha"]
+	path = Explorar/Pacha
+	url = git@github.com:MetodosBayesianos/Pacha.git
