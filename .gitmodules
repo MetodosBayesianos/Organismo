@@ -4,9 +4,6 @@
 [submodule "Aliar/Laboratorios"]
 	path = Aliar/Laboratorios
 	url = git@github.com:MetodosBayesianos/Laboratorios.git
-[submodule "Aliar/Fundaciones"]
-	path = Aliar/Fundaciones
-	url = git@github.com:MetodosBayesianos/Fundaciones.git
 [submodule "Aliar/Empresas"]
 	path = Aliar/Empresas
 	url = git@github.com:MetodosBayesianos/Empresas.git
